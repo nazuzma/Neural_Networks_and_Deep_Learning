@@ -1,6 +1,6 @@
 # Neural_Networks_and_Deep_Learning
 
-This repository includes all my assignment on Andrew Ng's special course "Deep Learning Specialization" This special course consists of five courses:
+This repository includes all my assignments on Andrew Ng's special course "Deep Learning Specialization" This special course consists of five courses:
 
 * Neural Networks and Deep Learning  
 * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
